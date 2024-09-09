@@ -15,7 +15,6 @@ import Loader from "./components/Loader";
 
 const Search = lazy(() => import("./pages/Search"));
 const MyList = lazy(() => import("./pages/MyList"));
-const About = lazy(() => import("./pages/About"));
 const Compare = lazy(() => import("./pages/Compare"));
 const Pokemon = lazy(() => import("./pages/Pokemon"));
 
